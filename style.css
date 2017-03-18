@@ -1,0 +1,59 @@
+/*font-family*/
+
+p {
+  font-family: Raleway;  /*If a font has a number at the beginning, put quotes around it*/
+}
+
+h1 {
+  font-family: Indie Flower;
+}
+
+/*font-size*/
+
+body {
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 5.0em;
+}
+
+p {
+  font-size: 2.0em;
+}
+
+span {
+  font-size: 2.0em;
+}
+
+/*font-weight*/
+
+p {
+  font-weight: normal; /* can also be measured between 100 - 800 but choose by 100s */
+}
+
+/*line-height*/
+
+p {
+  line-height: 1.5; /* 2 is double spacing but usually you don't do much with line-height */
+}
+
+/*text-align*/
+
+h1 {
+  text-align: right;
+}
+
+p {
+  text-align: center;
+}
+
+/*text-decoration*/  /* used to give a strike through, underline, or overline */
+
+p {
+   text-decoration: underline;
+   }
+
+h1 {
+  text-decoration: line-through;
+}
