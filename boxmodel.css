@@ -1,0 +1,27 @@
+p {
+
+  /*Content - Width and Height*/
+
+  width: 50%;  /* it is 50% of the parent element*/
+
+  /*Border*/
+
+  border: 2px solid blue;
+
+  /*Padding*/
+
+  /*padding: 10px; /* This sets it on all 4 sides exactly the same*/
+  padding-left: 40px;
+
+
+  /*Margin*/
+
+  /*margin: 100px;*/
+  /*margin-top: 500px;*/
+  /*margin: 20px 40px 500px 100px;*/
+  margin: 0 auto 0 auto; /* clockwise */ /*centers it for us*/
+  /*margin: 0 auto;*/ /*shorthand, sets top/bottom to 0 and left/right to auto */
+
+
+
+}
