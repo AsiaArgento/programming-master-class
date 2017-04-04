@@ -3,8 +3,8 @@ for(var i = -10; i < 20; i++){
   console.log(i);
 }
 
-//Printing all even numbers between 11 and 40
-for(var i = 11; i <= 40; i+=1){
+//Printing all even numbers between 10 and 40
+for(var i = 10; i <= 40; i+=1){
   if(i % 2 === 0){
     console.log(i);
   }
